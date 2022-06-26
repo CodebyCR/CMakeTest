@@ -5,7 +5,7 @@
 
 - this project contains a subdirectory with two header files
 
-<H5>The directory tree is:</H5>
+<H3>The directory tree is:</H3>
 
 ``` 
     - project
