@@ -8,16 +8,19 @@
 <H3>The directory tree is:</H3>
 
 ``` 
-    - project
-    - main.cpp
-    - Container
-        - ContainerOne.hpp
-        - ContainerTwo.hpp
-        - CMakeLists.txt
-    - tests
-        - test.cpp
-    - cmake-build-debug
-        - some files that cmake creates..
-    - CMakeLists.txt
-    - README.md
-
+project
+    |
+    |  - main.cpp
+    |  - CMakeLists.txt
+    |  - README.md
+    |
+    |  - Container
+    |     | - ContainerOne.hpp
+    |     | - ContainerTwo.hpp
+    |     | - CMakeLists.txt
+    |
+    |  - tests
+    |     | - test.cpp
+    |
+    |  - cmake-build-debug
+    |     | - some files that cmake creates..
