@@ -8,7 +8,7 @@
 <H3>The directory tree is:</H3>
 
 ``` 
-project
+CMakeTest
     |
     |  - main.cpp
     |  - CMakeLists.txt
